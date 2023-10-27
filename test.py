@@ -1,2 +1,2 @@
 print("hello nana")
-print(" EI EI")
+print("5555")
